@@ -14,14 +14,14 @@ Simple build and watch scripts for SCSS.
 
 ------------ Usage------------
 
-<!-- Install Dependencies -->
+---> Install Dependencies
 
 npm install
 
-<!-- Compile SCSS -->
+---> Compile SCSS
 
 npm run sass:build
 
-<!-- Watch SCSS for Changes -->
+---> Watch SCSS for Changes
 
 npm run sass:watch
